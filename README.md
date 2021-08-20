@@ -1,0 +1,2 @@
+# WP_template
+コーディングファイルをWordPress化するためのテンプレファイル
